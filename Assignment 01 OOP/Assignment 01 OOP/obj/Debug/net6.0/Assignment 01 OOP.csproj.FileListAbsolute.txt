@@ -1,0 +1,18 @@
+F:\BackEnd\OOP\C-10-.net-6-OOP\Assignment 01 OOP\Assignment 01 OOP\bin\Debug\net6.0\Assignment 01 OOP.exe
+F:\BackEnd\OOP\C-10-.net-6-OOP\Assignment 01 OOP\Assignment 01 OOP\bin\Debug\net6.0\Assignment 01 OOP.deps.json
+F:\BackEnd\OOP\C-10-.net-6-OOP\Assignment 01 OOP\Assignment 01 OOP\bin\Debug\net6.0\Assignment 01 OOP.runtimeconfig.json
+F:\BackEnd\OOP\C-10-.net-6-OOP\Assignment 01 OOP\Assignment 01 OOP\bin\Debug\net6.0\Assignment 01 OOP.dll
+F:\BackEnd\OOP\C-10-.net-6-OOP\Assignment 01 OOP\Assignment 01 OOP\bin\Debug\net6.0\Assignment 01 OOP.pdb
+F:\BackEnd\OOP\C-10-.net-6-OOP\Assignment 01 OOP\Assignment 01 OOP\bin\Debug\net6.0\Company_Class.dll
+F:\BackEnd\OOP\C-10-.net-6-OOP\Assignment 01 OOP\Assignment 01 OOP\bin\Debug\net6.0\Company_Class.pdb
+F:\BackEnd\OOP\C-10-.net-6-OOP\Assignment 01 OOP\Assignment 01 OOP\obj\Debug\net6.0\Assignment 01 OOP.csproj.AssemblyReference.cache
+F:\BackEnd\OOP\C-10-.net-6-OOP\Assignment 01 OOP\Assignment 01 OOP\obj\Debug\net6.0\Assignment 01 OOP.GeneratedMSBuildEditorConfig.editorconfig
+F:\BackEnd\OOP\C-10-.net-6-OOP\Assignment 01 OOP\Assignment 01 OOP\obj\Debug\net6.0\Assignment 01 OOP.AssemblyInfoInputs.cache
+F:\BackEnd\OOP\C-10-.net-6-OOP\Assignment 01 OOP\Assignment 01 OOP\obj\Debug\net6.0\Assignment 01 OOP.AssemblyInfo.cs
+F:\BackEnd\OOP\C-10-.net-6-OOP\Assignment 01 OOP\Assignment 01 OOP\obj\Debug\net6.0\Assignment 01 OOP.csproj.CoreCompileInputs.cache
+F:\BackEnd\OOP\C-10-.net-6-OOP\Assignment 01 OOP\Assignment 01 OOP\obj\Debug\net6.0\Assignment 01 OOP.csproj.CopyComplete
+F:\BackEnd\OOP\C-10-.net-6-OOP\Assignment 01 OOP\Assignment 01 OOP\obj\Debug\net6.0\Assignment 01 OOP.dll
+F:\BackEnd\OOP\C-10-.net-6-OOP\Assignment 01 OOP\Assignment 01 OOP\obj\Debug\net6.0\refint\Assignment 01 OOP.dll
+F:\BackEnd\OOP\C-10-.net-6-OOP\Assignment 01 OOP\Assignment 01 OOP\obj\Debug\net6.0\Assignment 01 OOP.pdb
+F:\BackEnd\OOP\C-10-.net-6-OOP\Assignment 01 OOP\Assignment 01 OOP\obj\Debug\net6.0\Assignment 01 OOP.genruntimeconfig.cache
+F:\BackEnd\OOP\C-10-.net-6-OOP\Assignment 01 OOP\Assignment 01 OOP\obj\Debug\net6.0\ref\Assignment 01 OOP.dll

@@ -1,0 +1,12 @@
+F:\BackEnd\OOP\C-10-.net-6-OOP\Assignment 01 OOP\Company_Class\bin\Debug\net6.0\Company_Class.deps.json
+F:\BackEnd\OOP\C-10-.net-6-OOP\Assignment 01 OOP\Company_Class\bin\Debug\net6.0\Company_Class.dll
+F:\BackEnd\OOP\C-10-.net-6-OOP\Assignment 01 OOP\Company_Class\bin\Debug\net6.0\Company_Class.pdb
+F:\BackEnd\OOP\C-10-.net-6-OOP\Assignment 01 OOP\Company_Class\obj\Debug\net6.0\Company_Class.csproj.AssemblyReference.cache
+F:\BackEnd\OOP\C-10-.net-6-OOP\Assignment 01 OOP\Company_Class\obj\Debug\net6.0\Company_Class.GeneratedMSBuildEditorConfig.editorconfig
+F:\BackEnd\OOP\C-10-.net-6-OOP\Assignment 01 OOP\Company_Class\obj\Debug\net6.0\Company_Class.AssemblyInfoInputs.cache
+F:\BackEnd\OOP\C-10-.net-6-OOP\Assignment 01 OOP\Company_Class\obj\Debug\net6.0\Company_Class.AssemblyInfo.cs
+F:\BackEnd\OOP\C-10-.net-6-OOP\Assignment 01 OOP\Company_Class\obj\Debug\net6.0\Company_Class.csproj.CoreCompileInputs.cache
+F:\BackEnd\OOP\C-10-.net-6-OOP\Assignment 01 OOP\Company_Class\obj\Debug\net6.0\Company_Class.dll
+F:\BackEnd\OOP\C-10-.net-6-OOP\Assignment 01 OOP\Company_Class\obj\Debug\net6.0\refint\Company_Class.dll
+F:\BackEnd\OOP\C-10-.net-6-OOP\Assignment 01 OOP\Company_Class\obj\Debug\net6.0\Company_Class.pdb
+F:\BackEnd\OOP\C-10-.net-6-OOP\Assignment 01 OOP\Company_Class\obj\Debug\net6.0\ref\Company_Class.dll

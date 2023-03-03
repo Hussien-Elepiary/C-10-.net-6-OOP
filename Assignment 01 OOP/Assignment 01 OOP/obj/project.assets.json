@@ -1,0 +1,95 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Company_Class/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Company_Class.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Company_Class.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Company_Class/1.0.0": {
+      "type": "project",
+      "path": "../Company_Class/Company_Class.csproj",
+      "msbuildProject": "../Company_Class/Company_Class.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Company_Class >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\hussi\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "F:\\BackEnd\\OOP\\C-10-.net-6-OOP\\Assignment 01 OOP\\Assignment 01 OOP\\Assignment 01 OOP.csproj",
+      "projectName": "Assignment 01 OOP",
+      "projectPath": "F:\\BackEnd\\OOP\\C-10-.net-6-OOP\\Assignment 01 OOP\\Assignment 01 OOP\\Assignment 01 OOP.csproj",
+      "packagesPath": "C:\\Users\\hussi\\.nuget\\packages\\",
+      "outputPath": "F:\\BackEnd\\OOP\\C-10-.net-6-OOP\\Assignment 01 OOP\\Assignment 01 OOP\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\hussi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "F:\\BackEnd\\OOP\\C-10-.net-6-OOP\\Assignment 01 OOP\\Company_Class\\Company_Class.csproj": {
+              "projectPath": "F:\\BackEnd\\OOP\\C-10-.net-6-OOP\\Assignment 01 OOP\\Company_Class\\Company_Class.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
