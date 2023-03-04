@@ -9,7 +9,7 @@ namespace Assignment_01_OOP
         
         static void Main()
         {
-            
+            #region Dynamic Data
             try
             {
                 GettingStarted();
@@ -21,8 +21,15 @@ namespace Assignment_01_OOP
 
             // this is just an example to show that you can do a class formate and have a mini example of enheretace 
             Console.WriteLine("Format Date From onther Class");
-            DataFormater dateFormat = new DataFormater(1,11,12,1998);
+            DataFormater dateFormat = new DataFormater(1, 11, 12, 1998);
             Console.WriteLine(dateFormat);
+            #endregion
+
+            #region Static Data
+            ////static array
+            //Console.WriteLine("Data From The Static array");
+            //StaticData();
+            #endregion
         }
 
         private static void GettingStarted()
@@ -94,7 +101,7 @@ namespace Assignment_01_OOP
                
             }
 
-            Console.WriteLine("From To String for jus the first Item for test");
+            Console.WriteLine("From To String for just the first Item for test");
             Console.WriteLine(employee.ToString());
             Console.WriteLine("---------------------------");
             #endregion
@@ -119,12 +126,12 @@ namespace Assignment_01_OOP
 
         private static void StaticData()
         {
-            Employee employee = new Employee(3);
-            employee.AddEmployee(0, 1, securityLevels.DBA, 3000, DateTime.Parse("30/1/2023"),'F');
-            employee.AddEmployee(1, 1, securityLevels.guest, 3000, DateTime.Parse("1/2/2023"), 'M');
-            employee.AddEmployee(2, 1, (securityLevels) 15, 3000, DateTime.Parse("1/3/2023"), 'F');
+            Employee employee2 = new Employee(3);
+            employee2.AddEmployee(0, 1, securityLevels.DBA, 3000, DateTime.Parse("1/30/2023"),'F');
+            employee2.AddEmployee(1, 2, securityLevels.guest, 3000, DateTime.Parse("2/1/2023"), 'M');
+            employee2.AddEmployee(2, 3, (securityLevels) 15, 3000, DateTime.Parse("3/1/2023"), 'F');
 
-            
+            ShowData(employee2, 3);
 
         }
     }
