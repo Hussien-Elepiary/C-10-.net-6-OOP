@@ -1,5 +1,4 @@
-﻿using System.Diagnostics.Metrics;
-using static Company_Class.Security;
+﻿using static Company_Class.Security;
 
 namespace Company_Class
 {

@@ -1,23 +1,22 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Company_Class
+﻿namespace Company_Class
 {
     public class DataFormater : Employee
     {
-        public new DateTime[] hiringDate { get; set; }
-        public DataFormater(int size) : base(size)
+        public int day { get; set; }
+        public int month { get; set; }  
+        public int year { get; set; }
+
+        public DataFormater(int size, int day, int month, int year) : base(size)
         {
-            hiringDate = new DateTime[size];
+            this.day = day;
+            this.month = month;
+            this.year = year;
         }
 
 
         public override string ToString()
         {
-            return $"{hiringDate}";
+            return $"Day is: {day} \nMonth is: {month} \nYear is: {year}";
         }
     }
 }

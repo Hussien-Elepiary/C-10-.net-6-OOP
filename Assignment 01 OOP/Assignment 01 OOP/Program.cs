@@ -1,5 +1,4 @@
 ﻿using Company_Class;
-using Microsoft.VisualBasic;
 using static Company_Class.Security;
 
 namespace Assignment_01_OOP
@@ -22,8 +21,8 @@ namespace Assignment_01_OOP
 
             // this is just an example to show that you can do a class formate and have a mini example of enheretace 
             Console.WriteLine("Format Date From onther Class");
-            DataFormater dateFormat = new DataFormater(1);
-            Console.WriteLine((dateFormat.hiringDate[0]=DateTime.Now).ToString("d"));
+            DataFormater dateFormat = new DataFormater(1,11,12,1998);
+            Console.WriteLine(dateFormat);
         }
 
         private static void GettingStarted()
