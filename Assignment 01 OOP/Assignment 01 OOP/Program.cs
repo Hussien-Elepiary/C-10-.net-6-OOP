@@ -92,11 +92,12 @@ namespace Assignment_01_OOP
             {
                 Console.WriteLine(employee[i]);
                 Console.WriteLine("---------------------------");
+               
             }
 
-            Console.WriteLine("From To String");
-            Console.WriteLine(employee);
-
+            Console.WriteLine("From To String for jus the first Item for test");
+            Console.WriteLine(employee.ToString());
+            Console.WriteLine("---------------------------");
             #endregion
         }
 
@@ -115,6 +116,17 @@ namespace Assignment_01_OOP
                 default:
                     return securityLevels.guest;
             }
+        }
+
+        private static void StaticData()
+        {
+            Employee employee = new Employee(3);
+            employee.AddEmployee(0, 1, securityLevels.DBA, 3000, DateTime.Parse("30/1/2023"),'F');
+            employee.AddEmployee(1, 1, securityLevels.guest, 3000, DateTime.Parse("1/2/2023"), 'M');
+            employee.AddEmployee(2, 1, (securityLevels) 15, 3000, DateTime.Parse("1/3/2023"), 'F');
+
+            
+
         }
     }
 }

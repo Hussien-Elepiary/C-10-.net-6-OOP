@@ -72,7 +72,7 @@ namespace Company_Class
 
         public override string ToString()
         {
-            return $"| Employee Salary From ToString : {string.Format("{0:C}", salary)}";
+            return $"| Employee Salary From ToString : {string.Format("{0:C}", salary[0])}";
         }
     }
 }

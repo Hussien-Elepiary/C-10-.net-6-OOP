@@ -14,6 +14,7 @@ namespace Company_Class
             hiringDate = new DateTime[size];
         }
 
+
         public override string ToString()
         {
             return $"{hiringDate}";
