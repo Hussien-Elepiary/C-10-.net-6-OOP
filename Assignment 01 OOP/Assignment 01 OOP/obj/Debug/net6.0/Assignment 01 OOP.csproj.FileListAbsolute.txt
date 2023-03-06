@@ -16,3 +16,21 @@ F:\BackEnd\OOP\C-10-.net-6-OOP\Assignment 01 OOP\Assignment 01 OOP\obj\Debug\net
 F:\BackEnd\OOP\C-10-.net-6-OOP\Assignment 01 OOP\Assignment 01 OOP\obj\Debug\net6.0\Assignment 01 OOP.pdb
 F:\BackEnd\OOP\C-10-.net-6-OOP\Assignment 01 OOP\Assignment 01 OOP\obj\Debug\net6.0\Assignment 01 OOP.genruntimeconfig.cache
 F:\BackEnd\OOP\C-10-.net-6-OOP\Assignment 01 OOP\Assignment 01 OOP\obj\Debug\net6.0\ref\Assignment 01 OOP.dll
+D:\Corse\C-10-.net-6-OOP\Assignment 01 OOP\Assignment 01 OOP\bin\Debug\net6.0\Assignment 01 OOP.exe
+D:\Corse\C-10-.net-6-OOP\Assignment 01 OOP\Assignment 01 OOP\bin\Debug\net6.0\Assignment 01 OOP.deps.json
+D:\Corse\C-10-.net-6-OOP\Assignment 01 OOP\Assignment 01 OOP\bin\Debug\net6.0\Assignment 01 OOP.runtimeconfig.json
+D:\Corse\C-10-.net-6-OOP\Assignment 01 OOP\Assignment 01 OOP\bin\Debug\net6.0\Assignment 01 OOP.dll
+D:\Corse\C-10-.net-6-OOP\Assignment 01 OOP\Assignment 01 OOP\bin\Debug\net6.0\Assignment 01 OOP.pdb
+D:\Corse\C-10-.net-6-OOP\Assignment 01 OOP\Assignment 01 OOP\bin\Debug\net6.0\Company_Class.dll
+D:\Corse\C-10-.net-6-OOP\Assignment 01 OOP\Assignment 01 OOP\bin\Debug\net6.0\Company_Class.pdb
+D:\Corse\C-10-.net-6-OOP\Assignment 01 OOP\Assignment 01 OOP\obj\Debug\net6.0\Assignment 01 OOP.csproj.AssemblyReference.cache
+D:\Corse\C-10-.net-6-OOP\Assignment 01 OOP\Assignment 01 OOP\obj\Debug\net6.0\Assignment 01 OOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Corse\C-10-.net-6-OOP\Assignment 01 OOP\Assignment 01 OOP\obj\Debug\net6.0\Assignment 01 OOP.AssemblyInfoInputs.cache
+D:\Corse\C-10-.net-6-OOP\Assignment 01 OOP\Assignment 01 OOP\obj\Debug\net6.0\Assignment 01 OOP.AssemblyInfo.cs
+D:\Corse\C-10-.net-6-OOP\Assignment 01 OOP\Assignment 01 OOP\obj\Debug\net6.0\Assignment 01 OOP.csproj.CoreCompileInputs.cache
+D:\Corse\C-10-.net-6-OOP\Assignment 01 OOP\Assignment 01 OOP\obj\Debug\net6.0\Assignment 01 OOP.csproj.CopyComplete
+D:\Corse\C-10-.net-6-OOP\Assignment 01 OOP\Assignment 01 OOP\obj\Debug\net6.0\Assignment 01 OOP.dll
+D:\Corse\C-10-.net-6-OOP\Assignment 01 OOP\Assignment 01 OOP\obj\Debug\net6.0\refint\Assignment 01 OOP.dll
+D:\Corse\C-10-.net-6-OOP\Assignment 01 OOP\Assignment 01 OOP\obj\Debug\net6.0\Assignment 01 OOP.pdb
+D:\Corse\C-10-.net-6-OOP\Assignment 01 OOP\Assignment 01 OOP\obj\Debug\net6.0\Assignment 01 OOP.genruntimeconfig.cache
+D:\Corse\C-10-.net-6-OOP\Assignment 01 OOP\Assignment 01 OOP\obj\Debug\net6.0\ref\Assignment 01 OOP.dll

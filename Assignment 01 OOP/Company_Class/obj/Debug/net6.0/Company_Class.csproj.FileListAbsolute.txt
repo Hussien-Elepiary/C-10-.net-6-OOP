@@ -10,3 +10,15 @@ F:\BackEnd\OOP\C-10-.net-6-OOP\Assignment 01 OOP\Company_Class\obj\Debug\net6.0\
 F:\BackEnd\OOP\C-10-.net-6-OOP\Assignment 01 OOP\Company_Class\obj\Debug\net6.0\refint\Company_Class.dll
 F:\BackEnd\OOP\C-10-.net-6-OOP\Assignment 01 OOP\Company_Class\obj\Debug\net6.0\Company_Class.pdb
 F:\BackEnd\OOP\C-10-.net-6-OOP\Assignment 01 OOP\Company_Class\obj\Debug\net6.0\ref\Company_Class.dll
+D:\Corse\C-10-.net-6-OOP\Assignment 01 OOP\Company_Class\bin\Debug\net6.0\Company_Class.deps.json
+D:\Corse\C-10-.net-6-OOP\Assignment 01 OOP\Company_Class\bin\Debug\net6.0\Company_Class.dll
+D:\Corse\C-10-.net-6-OOP\Assignment 01 OOP\Company_Class\bin\Debug\net6.0\Company_Class.pdb
+D:\Corse\C-10-.net-6-OOP\Assignment 01 OOP\Company_Class\obj\Debug\net6.0\Company_Class.csproj.AssemblyReference.cache
+D:\Corse\C-10-.net-6-OOP\Assignment 01 OOP\Company_Class\obj\Debug\net6.0\Company_Class.GeneratedMSBuildEditorConfig.editorconfig
+D:\Corse\C-10-.net-6-OOP\Assignment 01 OOP\Company_Class\obj\Debug\net6.0\Company_Class.AssemblyInfoInputs.cache
+D:\Corse\C-10-.net-6-OOP\Assignment 01 OOP\Company_Class\obj\Debug\net6.0\Company_Class.AssemblyInfo.cs
+D:\Corse\C-10-.net-6-OOP\Assignment 01 OOP\Company_Class\obj\Debug\net6.0\Company_Class.csproj.CoreCompileInputs.cache
+D:\Corse\C-10-.net-6-OOP\Assignment 01 OOP\Company_Class\obj\Debug\net6.0\Company_Class.dll
+D:\Corse\C-10-.net-6-OOP\Assignment 01 OOP\Company_Class\obj\Debug\net6.0\refint\Company_Class.dll
+D:\Corse\C-10-.net-6-OOP\Assignment 01 OOP\Company_Class\obj\Debug\net6.0\Company_Class.pdb
+D:\Corse\C-10-.net-6-OOP\Assignment 01 OOP\Company_Class\obj\Debug\net6.0\ref\Company_Class.dll

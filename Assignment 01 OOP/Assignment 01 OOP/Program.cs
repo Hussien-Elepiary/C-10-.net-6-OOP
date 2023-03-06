@@ -1,4 +1,5 @@
 ﻿using Company_Class;
+using Microsoft.VisualBasic;
 using static Company_Class.Security;
 
 namespace Assignment_01_OOP
@@ -9,58 +10,104 @@ namespace Assignment_01_OOP
         
         static void Main()
         {
-            #region Dynamic Data
             try
             {
-                GettingStarted();
+                int Qnumber;
+                do
+                {
+                    Console.Write("For Static example press 1 // For Dynamic press 2 : ");
+
+                } while (!int.TryParse(Console.ReadLine(), out Qnumber) || 0 >= Qnumber);
+
+                switch (Qnumber)
+                {
+                    case 1:
+                        #region Static Data
+                        // this is just an example to show that you can do a class formate and have a mini example of enheretace 
+                        try
+                        {
+                            Console.WriteLine("Format Date From onther Class");
+                            DataFormater dateFormat = new DataFormater(11, 12, 1998);
+                            Console.WriteLine(dateFormat);
+                        }
+                        catch (Exception e)
+                        {
+                            Console.WriteLine(e.Message);
+                        }
+                        //static array
+                        Console.WriteLine("Data From The Static array");
+                        StaticData();
+                        #endregion
+                        break;
+                    case 2:
+                        #region Dynamic Data
+                        try
+                        {
+                            GettingStarted();
+                        }
+                        catch (Exception e)
+                        {
+                            Console.WriteLine(e.Message);
+                        }
+                        #endregion
+                        break;
+                }
+
+
             }
             catch (Exception e)
             {
                 Console.WriteLine(e.Message);
             }
 
-            // this is just an example to show that you can do a class formate and have a mini example of enheretace 
-            Console.WriteLine("Format Date From onther Class");
-            DataFormater dateFormat = new DataFormater(1, 11, 12, 1998);
-            Console.WriteLine(dateFormat);
-            #endregion
+            
 
-            #region Static Data
-            ////static array
-            //Console.WriteLine("Data From The Static array");
-            //StaticData();
-            #endregion
         }
 
         private static void GettingStarted()
         {
-            int employeeNumber;
-            do
+            try
             {
-                Console.Write("Enter the number of Employees you want to enter : ");
+                int employeeNumber;
+                do
+                {
+                    Console.Write("Enter the number of Employees you want to enter : ");
 
-            } while (!int.TryParse(Console.ReadLine(), out employeeNumber) || 0 >= employeeNumber);
+                } while (!int.TryParse(Console.ReadLine(), out employeeNumber) || 0 >= employeeNumber);
 
-            
-            DataValidator(employeeNumber);
+
+                DataValidator(employeeNumber);
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e.Message);
+            }
+
+           
         }
 
         private static void DataValidator(int employeeNumber)
         {
-            Employee employee = new Employee(employeeNumber);
+            try
+            {
+                Employee[] employee = new Employee[employeeNumber];
+                InPuts(employeeNumber, employee);
+                ShowData(employee, employeeNumber);
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e.Message);
+            }
 
-            InPuts(employeeNumber, employee);   
-            ShowData(employee, employeeNumber);
-
-            
         }
 
-        private static void InPuts(int employeeNumber, Employee employee)
+        private static void InPuts(int employeeNumber, Employee[] employee)
         {
             int _id = 1, _securityLevel;
             decimal _salary;
             bool _flag;
             char _gender;
+            DataFormater dataFormater = new DataFormater(DateTime.Today.Day, DateTime.Today.Month, DateTime.Today.Year);
 
             for (int i = 0; i < employeeNumber; i++)
             {
@@ -83,28 +130,59 @@ namespace Assignment_01_OOP
                 } while (!_flag);
                 #endregion
                 #region Add
-                employee.AddEmployee(i, _id, SetSecurityLevel(_securityLevel), _salary, DateTime.Now, _gender);
+                employee[i] = new Employee(_id, SetSecurityLevel(_securityLevel), _salary, dataFormater, _gender);
                 #endregion
                 _id++;
                 Console.Clear();
             }
         }
 
-        private static void ShowData(Employee employee, int employeeNumber)
+        private static void ShowData(Employee[] employee, int employeeNumber)
         {
             #region DataShow
             Console.Clear();
-            for (int i = 1; i <= employeeNumber; i++)
-            {
-                Console.WriteLine(employee[i]);
-                Console.WriteLine("---------------------------");
-               
-            }
 
-            Console.WriteLine("From To String for just the first Item for test");
-            Console.WriteLine(employee.ToString());
-            Console.WriteLine("---------------------------");
+            try
+            {
+                int ShowNumber;
+                do
+                {
+                    Console.Write("How Do You want to show the Data (1. HandMadeMethod || 2. ToString(overrideing)) : ");
+
+                } while (!int.TryParse(Console.ReadLine(), out ShowNumber) || 0 >= ShowNumber);
+
+                switch (ShowNumber)
+                {
+                    case 1:
+                        for (int i = 0; i < employeeNumber; i++)
+                        {
+                            ShowDataWithAHandMadeMethod(employee,i);
+                        }
+                        break;
+                    case 2:
+                        for (int i = 0; i < employeeNumber; i++)
+                        {
+                            ShowDataWithToStringOverrade(employee, i);
+                        }
+                        break;
+                }
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e.Message);
+            }
             #endregion
+        }
+        private static void ShowDataWithAHandMadeMethod(Employee[] employee, int i)
+        {
+            Console.WriteLine("From To String for just the first Item for test");
+            Console.WriteLine(employee[i].ShowEmployeeData());
+            Console.WriteLine("---------------------------");
+        }
+        private static void ShowDataWithToStringOverrade(Employee[] employee, int i)
+        {
+            Console.WriteLine(employee[i]);
+            Console.WriteLine("---------------------------");
         }
 
         private static securityLevels SetSecurityLevel(int securityLevel)
@@ -126,10 +204,17 @@ namespace Assignment_01_OOP
 
         private static void StaticData()
         {
-            Employee employee2 = new Employee(3);
-            employee2.AddEmployee(0, 1, securityLevels.DBA, 3000, DateTime.Parse("1/30/2023"),'F');
-            employee2.AddEmployee(1, 2, securityLevels.guest, 3000, DateTime.Parse("2/1/2023"), 'M');
-            employee2.AddEmployee(2, 3, (securityLevels) 15, 3000, DateTime.Parse("3/1/2023"), 'F');
+            Employee[] employee2 = new Employee[3];
+
+            for (int i = 0; i < employee2.Length; i++)
+            {
+                employee2[i] = new Employee();
+            }
+
+            employee2[0].AddEmployee(1, securityLevels.DBA, 3000, new DataFormater(1, 30, 2023), 'F');
+            employee2[1].AddEmployee(2, securityLevels.guest, 3000, new DataFormater(2, 20, 2023), 'M');
+            employee2[2].AddEmployee(3, (securityLevels) 15, 3000, new DataFormater(3, 29, 2023), 'F');
+
 
             ShowData(employee2, 3);
 

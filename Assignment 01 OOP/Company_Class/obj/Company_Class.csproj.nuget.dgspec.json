@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\BackEnd\\OOP\\C-10-.net-6-OOP\\Assignment 01 OOP\\Company_Class\\Company_Class.csproj": {}
+    "D:\\Corse\\C-10-.net-6-OOP\\Assignment 01 OOP\\Company_Class\\Company_Class.csproj": {}
   },
   "projects": {
-    "F:\\BackEnd\\OOP\\C-10-.net-6-OOP\\Assignment 01 OOP\\Company_Class\\Company_Class.csproj": {
+    "D:\\Corse\\C-10-.net-6-OOP\\Assignment 01 OOP\\Company_Class\\Company_Class.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\BackEnd\\OOP\\C-10-.net-6-OOP\\Assignment 01 OOP\\Company_Class\\Company_Class.csproj",
+        "projectUniqueName": "D:\\Corse\\C-10-.net-6-OOP\\Assignment 01 OOP\\Company_Class\\Company_Class.csproj",
         "projectName": "Company_Class",
-        "projectPath": "F:\\BackEnd\\OOP\\C-10-.net-6-OOP\\Assignment 01 OOP\\Company_Class\\Company_Class.csproj",
-        "packagesPath": "C:\\Users\\hussi\\.nuget\\packages\\",
-        "outputPath": "F:\\BackEnd\\OOP\\C-10-.net-6-OOP\\Assignment 01 OOP\\Company_Class\\obj\\",
+        "projectPath": "D:\\Corse\\C-10-.net-6-OOP\\Assignment 01 OOP\\Company_Class\\Company_Class.csproj",
+        "packagesPath": "C:\\Users\\Hussien Assem\\.nuget\\packages\\",
+        "outputPath": "D:\\Corse\\C-10-.net-6-OOP\\Assignment 01 OOP\\Company_Class\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\hussi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Hussien Assem\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
