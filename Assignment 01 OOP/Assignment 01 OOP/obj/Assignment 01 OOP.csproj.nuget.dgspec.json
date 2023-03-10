@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Corse\\C-10-.net-6-OOP\\Assignment 01 OOP\\Assignment 01 OOP\\Assignment 01 OOP.csproj": {}
+    "F:\\BackEnd\\OOP\\C-10-.net-6-OOP\\Assignment 01 OOP\\Assignment 01 OOP\\Assignment 01 OOP.csproj": {}
   },
   "projects": {
-    "D:\\Corse\\C-10-.net-6-OOP\\Assignment 01 OOP\\Assignment 01 OOP\\Assignment 01 OOP.csproj": {
+    "F:\\BackEnd\\OOP\\C-10-.net-6-OOP\\Assignment 01 OOP\\Assignment 01 OOP\\Assignment 01 OOP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Corse\\C-10-.net-6-OOP\\Assignment 01 OOP\\Assignment 01 OOP\\Assignment 01 OOP.csproj",
+        "projectUniqueName": "F:\\BackEnd\\OOP\\C-10-.net-6-OOP\\Assignment 01 OOP\\Assignment 01 OOP\\Assignment 01 OOP.csproj",
         "projectName": "Assignment 01 OOP",
-        "projectPath": "D:\\Corse\\C-10-.net-6-OOP\\Assignment 01 OOP\\Assignment 01 OOP\\Assignment 01 OOP.csproj",
-        "packagesPath": "C:\\Users\\Hussien Assem\\.nuget\\packages\\",
-        "outputPath": "D:\\Corse\\C-10-.net-6-OOP\\Assignment 01 OOP\\Assignment 01 OOP\\obj\\",
+        "projectPath": "F:\\BackEnd\\OOP\\C-10-.net-6-OOP\\Assignment 01 OOP\\Assignment 01 OOP\\Assignment 01 OOP.csproj",
+        "packagesPath": "C:\\Users\\hussi\\.nuget\\packages\\",
+        "outputPath": "F:\\BackEnd\\OOP\\C-10-.net-6-OOP\\Assignment 01 OOP\\Assignment 01 OOP\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Hussien Assem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\hussi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +31,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Corse\\C-10-.net-6-OOP\\Assignment 01 OOP\\Company_Class\\Company_Class.csproj": {
-                "projectPath": "D:\\Corse\\C-10-.net-6-OOP\\Assignment 01 OOP\\Company_Class\\Company_Class.csproj"
+              "F:\\BackEnd\\OOP\\C-10-.net-6-OOP\\Assignment 01 OOP\\Company_Class\\Company_Class.csproj": {
+                "projectPath": "F:\\BackEnd\\OOP\\C-10-.net-6-OOP\\Assignment 01 OOP\\Company_Class\\Company_Class.csproj"
               }
             }
           }
@@ -59,21 +62,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Corse\\C-10-.net-6-OOP\\Assignment 01 OOP\\Company_Class\\Company_Class.csproj": {
+    "F:\\BackEnd\\OOP\\C-10-.net-6-OOP\\Assignment 01 OOP\\Company_Class\\Company_Class.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Corse\\C-10-.net-6-OOP\\Assignment 01 OOP\\Company_Class\\Company_Class.csproj",
+        "projectUniqueName": "F:\\BackEnd\\OOP\\C-10-.net-6-OOP\\Assignment 01 OOP\\Company_Class\\Company_Class.csproj",
         "projectName": "Company_Class",
-        "projectPath": "D:\\Corse\\C-10-.net-6-OOP\\Assignment 01 OOP\\Company_Class\\Company_Class.csproj",
-        "packagesPath": "C:\\Users\\Hussien Assem\\.nuget\\packages\\",
-        "outputPath": "D:\\Corse\\C-10-.net-6-OOP\\Assignment 01 OOP\\Company_Class\\obj\\",
+        "projectPath": "F:\\BackEnd\\OOP\\C-10-.net-6-OOP\\Assignment 01 OOP\\Company_Class\\Company_Class.csproj",
+        "packagesPath": "C:\\Users\\hussi\\.nuget\\packages\\",
+        "outputPath": "F:\\BackEnd\\OOP\\C-10-.net-6-OOP\\Assignment 01 OOP\\Company_Class\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Hussien Assem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\hussi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -114,7 +120,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
