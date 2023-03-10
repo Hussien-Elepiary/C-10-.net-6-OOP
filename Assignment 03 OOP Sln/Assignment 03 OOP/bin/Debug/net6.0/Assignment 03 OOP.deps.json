@@ -1,0 +1,43 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Assignment 03 OOP/1.0.0": {
+        "runtime": {
+          "Assignment 03 OOP.dll": {}
+        }
+      },
+      "First Project/1.0.0": {
+        "runtime": {
+          "First Project.dll": {}
+        }
+      },
+      "Second Project/1.0.0": {
+        "runtime": {
+          "Second Project.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Assignment 03 OOP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "First Project/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Second Project/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

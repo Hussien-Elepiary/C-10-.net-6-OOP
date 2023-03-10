@@ -1,0 +1,20 @@
+F:\BackEnd\OOP\C-10-.net-6-OOP\Assignment 03 OOP Sln\Assignment 03 OOP\bin\Debug\net6.0\Assignment 03 OOP.exe
+F:\BackEnd\OOP\C-10-.net-6-OOP\Assignment 03 OOP Sln\Assignment 03 OOP\bin\Debug\net6.0\Assignment 03 OOP.deps.json
+F:\BackEnd\OOP\C-10-.net-6-OOP\Assignment 03 OOP Sln\Assignment 03 OOP\bin\Debug\net6.0\Assignment 03 OOP.runtimeconfig.json
+F:\BackEnd\OOP\C-10-.net-6-OOP\Assignment 03 OOP Sln\Assignment 03 OOP\bin\Debug\net6.0\Assignment 03 OOP.dll
+F:\BackEnd\OOP\C-10-.net-6-OOP\Assignment 03 OOP Sln\Assignment 03 OOP\bin\Debug\net6.0\Assignment 03 OOP.pdb
+F:\BackEnd\OOP\C-10-.net-6-OOP\Assignment 03 OOP Sln\Assignment 03 OOP\bin\Debug\net6.0\First Project.dll
+F:\BackEnd\OOP\C-10-.net-6-OOP\Assignment 03 OOP Sln\Assignment 03 OOP\bin\Debug\net6.0\First Project.pdb
+F:\BackEnd\OOP\C-10-.net-6-OOP\Assignment 03 OOP Sln\Assignment 03 OOP\obj\Debug\net6.0\Assignment 03 OOP.csproj.AssemblyReference.cache
+F:\BackEnd\OOP\C-10-.net-6-OOP\Assignment 03 OOP Sln\Assignment 03 OOP\obj\Debug\net6.0\Assignment 03 OOP.GeneratedMSBuildEditorConfig.editorconfig
+F:\BackEnd\OOP\C-10-.net-6-OOP\Assignment 03 OOP Sln\Assignment 03 OOP\obj\Debug\net6.0\Assignment 03 OOP.AssemblyInfoInputs.cache
+F:\BackEnd\OOP\C-10-.net-6-OOP\Assignment 03 OOP Sln\Assignment 03 OOP\obj\Debug\net6.0\Assignment 03 OOP.AssemblyInfo.cs
+F:\BackEnd\OOP\C-10-.net-6-OOP\Assignment 03 OOP Sln\Assignment 03 OOP\obj\Debug\net6.0\Assignment 03 OOP.csproj.CoreCompileInputs.cache
+F:\BackEnd\OOP\C-10-.net-6-OOP\Assignment 03 OOP Sln\Assignment 03 OOP\obj\Debug\net6.0\Assignment 03 OOP.csproj.CopyComplete
+F:\BackEnd\OOP\C-10-.net-6-OOP\Assignment 03 OOP Sln\Assignment 03 OOP\obj\Debug\net6.0\Assignment 03 OOP.dll
+F:\BackEnd\OOP\C-10-.net-6-OOP\Assignment 03 OOP Sln\Assignment 03 OOP\obj\Debug\net6.0\refint\Assignment 03 OOP.dll
+F:\BackEnd\OOP\C-10-.net-6-OOP\Assignment 03 OOP Sln\Assignment 03 OOP\obj\Debug\net6.0\Assignment 03 OOP.pdb
+F:\BackEnd\OOP\C-10-.net-6-OOP\Assignment 03 OOP Sln\Assignment 03 OOP\obj\Debug\net6.0\Assignment 03 OOP.genruntimeconfig.cache
+F:\BackEnd\OOP\C-10-.net-6-OOP\Assignment 03 OOP Sln\Assignment 03 OOP\obj\Debug\net6.0\ref\Assignment 03 OOP.dll
+F:\BackEnd\OOP\C-10-.net-6-OOP\Assignment 03 OOP Sln\Assignment 03 OOP\bin\Debug\net6.0\Second Project.dll
+F:\BackEnd\OOP\C-10-.net-6-OOP\Assignment 03 OOP Sln\Assignment 03 OOP\bin\Debug\net6.0\Second Project.pdb
