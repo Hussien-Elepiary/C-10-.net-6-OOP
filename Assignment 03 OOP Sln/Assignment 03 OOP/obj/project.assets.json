@@ -1,0 +1,114 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "First Project/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/First Project.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/First Project.dll": {}
+        }
+      },
+      "Second Project/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Second Project.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Second Project.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "First Project/1.0.0": {
+      "type": "project",
+      "path": "../First Project/First Project.csproj",
+      "msbuildProject": "../First Project/First Project.csproj"
+    },
+    "Second Project/1.0.0": {
+      "type": "project",
+      "path": "../Second Project/Second Project.csproj",
+      "msbuildProject": "../Second Project/Second Project.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "First Project >= 1.0.0",
+      "Second Project >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\hussi\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "F:\\BackEnd\\OOP\\C-10-.net-6-OOP\\Assignment 03 OOP Sln\\Assignment 03 OOP\\Assignment 03 OOP.csproj",
+      "projectName": "Assignment 03 OOP",
+      "projectPath": "F:\\BackEnd\\OOP\\C-10-.net-6-OOP\\Assignment 03 OOP Sln\\Assignment 03 OOP\\Assignment 03 OOP.csproj",
+      "packagesPath": "C:\\Users\\hussi\\.nuget\\packages\\",
+      "outputPath": "F:\\BackEnd\\OOP\\C-10-.net-6-OOP\\Assignment 03 OOP Sln\\Assignment 03 OOP\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\hussi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "F:\\BackEnd\\OOP\\C-10-.net-6-OOP\\Assignment 03 OOP Sln\\First Project\\First Project.csproj": {
+              "projectPath": "F:\\BackEnd\\OOP\\C-10-.net-6-OOP\\Assignment 03 OOP Sln\\First Project\\First Project.csproj"
+            },
+            "F:\\BackEnd\\OOP\\C-10-.net-6-OOP\\Assignment 03 OOP Sln\\Second Project\\Second Project.csproj": {
+              "projectPath": "F:\\BackEnd\\OOP\\C-10-.net-6-OOP\\Assignment 03 OOP Sln\\Second Project\\Second Project.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

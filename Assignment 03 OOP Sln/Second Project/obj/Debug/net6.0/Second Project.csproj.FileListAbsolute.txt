@@ -1,0 +1,12 @@
+F:\BackEnd\OOP\C-10-.net-6-OOP\Assignment 03 OOP Sln\Second Project\bin\Debug\net6.0\Second Project.deps.json
+F:\BackEnd\OOP\C-10-.net-6-OOP\Assignment 03 OOP Sln\Second Project\bin\Debug\net6.0\Second Project.dll
+F:\BackEnd\OOP\C-10-.net-6-OOP\Assignment 03 OOP Sln\Second Project\bin\Debug\net6.0\Second Project.pdb
+F:\BackEnd\OOP\C-10-.net-6-OOP\Assignment 03 OOP Sln\Second Project\obj\Debug\net6.0\Second Project.csproj.AssemblyReference.cache
+F:\BackEnd\OOP\C-10-.net-6-OOP\Assignment 03 OOP Sln\Second Project\obj\Debug\net6.0\Second Project.GeneratedMSBuildEditorConfig.editorconfig
+F:\BackEnd\OOP\C-10-.net-6-OOP\Assignment 03 OOP Sln\Second Project\obj\Debug\net6.0\Second Project.AssemblyInfoInputs.cache
+F:\BackEnd\OOP\C-10-.net-6-OOP\Assignment 03 OOP Sln\Second Project\obj\Debug\net6.0\Second Project.AssemblyInfo.cs
+F:\BackEnd\OOP\C-10-.net-6-OOP\Assignment 03 OOP Sln\Second Project\obj\Debug\net6.0\Second Project.csproj.CoreCompileInputs.cache
+F:\BackEnd\OOP\C-10-.net-6-OOP\Assignment 03 OOP Sln\Second Project\obj\Debug\net6.0\Second Project.dll
+F:\BackEnd\OOP\C-10-.net-6-OOP\Assignment 03 OOP Sln\Second Project\obj\Debug\net6.0\refint\Second Project.dll
+F:\BackEnd\OOP\C-10-.net-6-OOP\Assignment 03 OOP Sln\Second Project\obj\Debug\net6.0\Second Project.pdb
+F:\BackEnd\OOP\C-10-.net-6-OOP\Assignment 03 OOP Sln\Second Project\obj\Debug\net6.0\ref\Second Project.dll

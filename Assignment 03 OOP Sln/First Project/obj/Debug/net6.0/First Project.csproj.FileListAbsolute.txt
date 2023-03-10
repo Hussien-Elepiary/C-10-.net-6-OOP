@@ -1,0 +1,12 @@
+F:\BackEnd\OOP\C-10-.net-6-OOP\Assignment 03 OOP Sln\First Project\bin\Debug\net6.0\First Project.deps.json
+F:\BackEnd\OOP\C-10-.net-6-OOP\Assignment 03 OOP Sln\First Project\bin\Debug\net6.0\First Project.dll
+F:\BackEnd\OOP\C-10-.net-6-OOP\Assignment 03 OOP Sln\First Project\bin\Debug\net6.0\First Project.pdb
+F:\BackEnd\OOP\C-10-.net-6-OOP\Assignment 03 OOP Sln\First Project\obj\Debug\net6.0\First Project.csproj.AssemblyReference.cache
+F:\BackEnd\OOP\C-10-.net-6-OOP\Assignment 03 OOP Sln\First Project\obj\Debug\net6.0\First Project.GeneratedMSBuildEditorConfig.editorconfig
+F:\BackEnd\OOP\C-10-.net-6-OOP\Assignment 03 OOP Sln\First Project\obj\Debug\net6.0\First Project.AssemblyInfoInputs.cache
+F:\BackEnd\OOP\C-10-.net-6-OOP\Assignment 03 OOP Sln\First Project\obj\Debug\net6.0\First Project.AssemblyInfo.cs
+F:\BackEnd\OOP\C-10-.net-6-OOP\Assignment 03 OOP Sln\First Project\obj\Debug\net6.0\First Project.csproj.CoreCompileInputs.cache
+F:\BackEnd\OOP\C-10-.net-6-OOP\Assignment 03 OOP Sln\First Project\obj\Debug\net6.0\First Project.dll
+F:\BackEnd\OOP\C-10-.net-6-OOP\Assignment 03 OOP Sln\First Project\obj\Debug\net6.0\refint\First Project.dll
+F:\BackEnd\OOP\C-10-.net-6-OOP\Assignment 03 OOP Sln\First Project\obj\Debug\net6.0\First Project.pdb
+F:\BackEnd\OOP\C-10-.net-6-OOP\Assignment 03 OOP Sln\First Project\obj\Debug\net6.0\ref\First Project.dll
