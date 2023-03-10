@@ -16,7 +16,7 @@
 
         public override string ToString()
         {
-            return $"Day is: {day} / Month is: {month} / Year is: {year}";
+            return $"{day}/{month}/{year}";
         }
     }
 }

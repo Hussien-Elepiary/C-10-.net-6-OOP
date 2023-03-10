@@ -7,7 +7,8 @@ namespace Assignment_01_OOP
     
     internal class Program
     {
-        
+
+        #region StartPoint
         static void Main()
         {
             try
@@ -60,10 +61,12 @@ namespace Assignment_01_OOP
                 Console.WriteLine(e.Message);
             }
 
-            
+
 
         }
+        #endregion
 
+        #region DynamicDataMethods
         private static void GettingStarted()
         {
             try
@@ -83,7 +86,7 @@ namespace Assignment_01_OOP
                 Console.WriteLine(e.Message);
             }
 
-           
+
         }
 
         private static void DataValidator(int employeeNumber)
@@ -135,8 +138,10 @@ namespace Assignment_01_OOP
                 _id++;
                 Console.Clear();
             }
-        }
+        } 
+        #endregion
 
+        #region ShowSection
         private static void ShowData(Employee[] employee, int employeeNumber)
         {
             #region DataShow
@@ -156,7 +161,7 @@ namespace Assignment_01_OOP
                     case 1:
                         for (int i = 0; i < employeeNumber; i++)
                         {
-                            ShowDataWithAHandMadeMethod(employee,i);
+                            ShowDataWithAHandMadeMethod(employee, i);
                         }
                         break;
                     case 2:
@@ -184,7 +189,9 @@ namespace Assignment_01_OOP
             Console.WriteLine(employee[i]);
             Console.WriteLine("---------------------------");
         }
+        #endregion
 
+        #region securityLevelsHandler
         private static securityLevels SetSecurityLevel(int securityLevel)
         {
             switch (securityLevel)
@@ -201,7 +208,9 @@ namespace Assignment_01_OOP
                     return securityLevels.guest;
             }
         }
+        #endregion
 
+        #region StaticDataHandler
         private static void StaticData()
         {
             Employee[] employee2 = new Employee[3];
@@ -213,11 +222,21 @@ namespace Assignment_01_OOP
 
             employee2[0].AddEmployee(1, securityLevels.DBA, 3000, new DataFormater(1, 30, 2023), 'F');
             employee2[1].AddEmployee(2, securityLevels.guest, 3000, new DataFormater(2, 20, 2023), 'M');
-            employee2[2].AddEmployee(3, (securityLevels) 15, 3000, new DataFormater(3, 29, 2023), 'F');
+            employee2[2].AddEmployee(3, (securityLevels)15, 3000, new DataFormater(3, 29, 2023), 'F');
 
+            string[] employee2Strings = new string[employee2.Length];
+            for (int i = 0; i < employee2.Length; i++)
+            {
+                employee2[i].ShowEmployeeData();
+            }
 
             ShowData(employee2, 3);
 
         }
+        #endregion
+
+        #region SortByHiringDate
+        
+        #endregion
     }
 }
