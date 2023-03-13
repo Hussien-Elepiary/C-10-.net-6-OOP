@@ -4,7 +4,7 @@ using static Company_Class.Security;
 
 namespace Assignment_01_OOP
 {
-    
+
     internal class Program
     {
 
@@ -138,7 +138,7 @@ namespace Assignment_01_OOP
                 _id++;
                 Console.Clear();
             }
-        } 
+        }
         #endregion
 
         #region ShowSection
@@ -224,19 +224,47 @@ namespace Assignment_01_OOP
             employee2[1].AddEmployee(2, securityLevels.guest, 3000, new DataFormater(2, 20, 2023), 'M');
             employee2[2].AddEmployee(3, (securityLevels)15, 3000, new DataFormater(3, 29, 2023), 'F');
 
-            string[] employee2Strings = new string[employee2.Length];
+            DataFormater[] EmployeeHiringDate = new DataFormater[employee2.Length];
             for (int i = 0; i < employee2.Length; i++)
             {
                 employee2[i].ShowEmployeeData();
+                EmployeeHiringDate[i] = employee2[i].hiringDate;
             }
 
+            DataFormater[] SortedDate = GetDateFromEmployeeAndSortIt(EmployeeHiringDate);
             ShowData(employee2, 3);
 
         }
         #endregion
 
         #region SortByHiringDate
-        
+        // Get Date From Employee
+        private static DataFormater[] GetDateFromEmployeeAndSortIt(DataFormater[] Date)
+        {
+            DateTime[] ConvertedDate = new DateTime[Date.Length] ;
+            DataFormater[] hiringDateSorted = new DataFormater[Date.Length];
+            for (int i = 0; i < Date.Length; i++)
+            {
+                ConvertedDate[i] = new DateTime(Date[i].year, Date[i].month, Date[i].day);
+            }
+            Array.Sort(ConvertedDate);
+            for (int i = 0; i < Date.Length; i++)
+            {
+                hiringDateSorted[i] = new DataFormater(ConvertedDate[i].Day, ConvertedDate[i].Month, ConvertedDate[i].Year);
+            }
+            return hiringDateSorted;
+        }
+
+        private static void SortingEmployees(Employee[] employee, DataFormater[] hiring)
+        {
+            if ( ((employee is not null) && (hiring is not null)) && (employee.Length == hiring.Length) )
+            {
+                for (int i = 0; i < employee.Length; i++)
+                {
+                   
+                }
+            }
+        }
         #endregion
     }
 }
