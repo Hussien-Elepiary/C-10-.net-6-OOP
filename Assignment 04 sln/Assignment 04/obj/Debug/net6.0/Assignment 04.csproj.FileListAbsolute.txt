@@ -1,0 +1,15 @@
+F:\BackEnd\OOP\C-10-.net-6-OOP\Assignment 04 sln\Assignment 04\bin\Debug\net6.0\Assignment 04.exe
+F:\BackEnd\OOP\C-10-.net-6-OOP\Assignment 04 sln\Assignment 04\bin\Debug\net6.0\Assignment 04.deps.json
+F:\BackEnd\OOP\C-10-.net-6-OOP\Assignment 04 sln\Assignment 04\bin\Debug\net6.0\Assignment 04.runtimeconfig.json
+F:\BackEnd\OOP\C-10-.net-6-OOP\Assignment 04 sln\Assignment 04\bin\Debug\net6.0\Assignment 04.dll
+F:\BackEnd\OOP\C-10-.net-6-OOP\Assignment 04 sln\Assignment 04\bin\Debug\net6.0\Assignment 04.pdb
+F:\BackEnd\OOP\C-10-.net-6-OOP\Assignment 04 sln\Assignment 04\obj\Debug\net6.0\Assignment 04.csproj.AssemblyReference.cache
+F:\BackEnd\OOP\C-10-.net-6-OOP\Assignment 04 sln\Assignment 04\obj\Debug\net6.0\Assignment 04.GeneratedMSBuildEditorConfig.editorconfig
+F:\BackEnd\OOP\C-10-.net-6-OOP\Assignment 04 sln\Assignment 04\obj\Debug\net6.0\Assignment 04.AssemblyInfoInputs.cache
+F:\BackEnd\OOP\C-10-.net-6-OOP\Assignment 04 sln\Assignment 04\obj\Debug\net6.0\Assignment 04.AssemblyInfo.cs
+F:\BackEnd\OOP\C-10-.net-6-OOP\Assignment 04 sln\Assignment 04\obj\Debug\net6.0\Assignment 04.csproj.CoreCompileInputs.cache
+F:\BackEnd\OOP\C-10-.net-6-OOP\Assignment 04 sln\Assignment 04\obj\Debug\net6.0\Assignment 04.dll
+F:\BackEnd\OOP\C-10-.net-6-OOP\Assignment 04 sln\Assignment 04\obj\Debug\net6.0\refint\Assignment 04.dll
+F:\BackEnd\OOP\C-10-.net-6-OOP\Assignment 04 sln\Assignment 04\obj\Debug\net6.0\Assignment 04.pdb
+F:\BackEnd\OOP\C-10-.net-6-OOP\Assignment 04 sln\Assignment 04\obj\Debug\net6.0\Assignment 04.genruntimeconfig.cache
+F:\BackEnd\OOP\C-10-.net-6-OOP\Assignment 04 sln\Assignment 04\obj\Debug\net6.0\ref\Assignment 04.dll
